@@ -1,4 +1,4 @@
-# Analiza_NGS
+# NGS Data Analysis
 
 ## AUTHOR: ŁUKASZ STERNA
 
