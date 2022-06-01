@@ -1,10 +1,10 @@
 #!/bin/bash
 
-one="_1"
-two="_2"
-
 tri="trimmed_"
 type=".fastq"
+
+one="_1"
+two="_2"
 
 p="_paired"
 
