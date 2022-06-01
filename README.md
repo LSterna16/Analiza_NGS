@@ -8,5 +8,4 @@
   - fastqc: quality analysis report
   - vcf: files containing variant detection
 - src: all scripts used
-  - download_files
 
