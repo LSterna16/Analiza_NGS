@@ -1,6 +1,6 @@
 # NGS Data Analysis
 
-## AUTHOR: ŁUKASZ STERNA
+## author: Łukasz Sterna
 
 - data: all files
   - original_files: link to original data
